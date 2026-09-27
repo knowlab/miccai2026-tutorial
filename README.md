@@ -12,7 +12,7 @@ The **MICCAI 2026 edition marks the third edition of the MultiFound tutorial ser
 - **Chaoyi Wu** — Shanghai Jiao Tong University
 - **Weidi Xie** — Shanghai Jiao Tong University
 - **Honghan Wu** — University of Glasgow
-- 
+
 ## About the Tutorial
 
 MultiFound focuses on recent advances in **multimodal foundation models for biomedical imaging**, bringing together methods that integrate medical images with complementary modalities such as text, clinical information, and other biomedical data.
